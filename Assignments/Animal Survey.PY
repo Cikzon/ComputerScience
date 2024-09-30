@@ -1,5 +1,5 @@
-favorite_animal = input("whats your favorite animal?")
-reason =input("why is it your favorite animal?")
+favorite_animal = input("whats your favorite animal?") #this tells the computer to ask whats your favorite animal and to store the information you give in "favorite_animal "
+reason =input("why is it your favorite animal?") #same thing here the program stores the infor you type in "reason"
 print(f"your favorite animal is {favorite_animal} because its {reason}")
 habitat = input("where does your favorite animal live?")
 print(f"your favorite animal lives {habitat} thats cool! me too!")
@@ -12,4 +12,4 @@ print(f" a {favorite_animal} is {color}!? thats my favorite color")
 diet =input("what kinda food does it like??")
 print(f"i loveee{diet} its my fav fr fr")
 print(f"so your favorite animal is {favorite_animal} and its your favorite animal because {reason} and it lives {habitat} and looks like {looks} and a it does {actions} and it eats {diet} and last but not least its color is {color}") 
-print(f"wow a {favorite_animal} sounds an awefull lot like me! because i am a {favorite_animal} hahahahahahahaha")
+print(f"wow a {favorite_animal} sounds an awefull lot like me! because i am a {favorite_animal} hahahahahahahahaa")
